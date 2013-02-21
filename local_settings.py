@@ -5,10 +5,10 @@ Includes keys for Twilio, etc.  Second stanza intended for Heroku deployment.
 '''
 
 # Uncommet to configure in file.
-ACCOUNT_SID = "AC802d88dd13f2e3f8d8bc3f9b95eb9f06" 
-AUTH_TOKEN = "a610e5b81d025523706a2bbc381bf5ac"
-BSSSPAM_APP_SID = "AP69a2d4c9cdceee480dfa9e9230c586c5"
-BSS_SPAM_ID = "+17032913341"
+ACCOUNT_SID = "AC80f4fcd805491f6851f7e01e98c8a290" 
+AUTH_TOKEN = "b150a4aed6c4498b7c6f3f11055040e2"
+BSSSPAM_APP_SID = "AP51256f61ea0279b3e7d2f5b8c12c5ca4"
+BSS_SPAM_ID = "+12023041284"
 
 
 # Begin Heroku configuration - configured through environment variables.
